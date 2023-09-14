@@ -17,7 +17,6 @@
 <a href="https://www.facebook.com/profile.php?id=100054890288559" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shoaib akhtar" height="30" width="40" /></a>
 <a href="https://instagram.com/adiotic_akhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adiotic_akhtar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shoaib_akhtar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shoaib_akhtar_" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/studio/profile/Akhtarx11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/coding-ninjas.svg" alt="Akhtarx11" height="30" width="40" /></a>
 <a href="https://discord.gg/749260380236415028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="749260380236415028" height="30" width="40" /></a>
 </p>
 
